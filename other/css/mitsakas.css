@@ -26,7 +26,7 @@
 }
 
 .generic-section iframe{
-    width: calc(100% - calc(2 * clamp(2.25rem, 2.163rem + 0.4348vw, 2.5rem)));;
+    width: calc(100vw - calc(2 * clamp(2.25rem, 2.163rem + 0.4348vw, 2.5rem)));
 }
 
 .intro-img{
