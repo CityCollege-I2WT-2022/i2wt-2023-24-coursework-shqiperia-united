@@ -34,7 +34,7 @@
 .personal-info{
     border: 4px solid var(--dark_blue);
     width: calc(100% - calc(2* var(--space-l)));
-    padding: 100% 0;
+    padding: 1em;
 }
 
 table, th, td {
